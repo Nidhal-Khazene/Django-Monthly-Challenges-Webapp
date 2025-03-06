@@ -4,6 +4,8 @@
 
 Django Monthly Challenges Webapp is a simple Django-based web application that presents monthly challenges to users. Each month has a dedicated challenge, and users can navigate through them dynamically.
 
+![Django-Monthly-Challenges-Webapp](UI View.png)
+
 ## Features
 
 - View challenges for each month
